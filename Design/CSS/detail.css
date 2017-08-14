@@ -1,0 +1,12 @@
+.size-button{
+    width:70px; 
+    height:30px; 
+    border:2px solid lightgray; 
+    border-style:dotted;
+    color:Black;
+    background-color:#fff;
+}
+.size-button:hover{
+    background-color: cornflowerblue;
+    color:white;
+}
